@@ -55,14 +55,39 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
 </br>
+
+![image](https://github.com/user-attachments/assets/7122d0c0-cd25-4aac-bc5a-78aebbcb9d53)
+
+
+![image](https://github.com/user-attachments/assets/396d9969-f7a8-4a44-92b4-8c0531eba862)
+
+
 </br>
 
 ### 2. Policy, Value function and success rate for the Improved Policy
 </br>
+
+![image](https://github.com/user-attachments/assets/1438a40b-b2c0-4a55-bb6c-45541f5ad9aa)
+
+
+
+![image](https://github.com/user-attachments/assets/72b8130b-1419-4ce0-a026-734381441553)
+
+
 </br>
 
 ### 3. Policy, Value function and success rate after policy iteration
 </br>
+
+![image](https://github.com/user-attachments/assets/a1153e0a-8e17-4efa-8a43-3ab8c203b6fe)
+
+![image](https://github.com/user-attachments/assets/778864a6-bd9b-4982-830b-bc9054e95a85)
+
+
+![image](https://github.com/user-attachments/assets/8d95bb7b-5ee8-4129-a5ec-7d6c460b4f3b)
+
+
+
 </br>
 
 
