@@ -7,9 +7,11 @@ To develop a Python program to find the optimal policy for the given MDP using t
 The aim of this experiment is to find optimal policy for the mdp using policy iteration. Policy iteration includes policy evaluation and policy improvement where evaluation function is used to find optimal value function of each state and then improvement function is used to find best policy by comparing all the action value function as well as policy.
 
 ## POLICY ITERATION ALGORITHM
-Include the steps involved in policy iteration algorithm
-</br>
-</br>
+### Step1 :
+we are going to do policy evaluation of each state to get the state value function where the initial policy is defined randomly to the mdp.
+
+### Step2:
+Once we obtain convergence in the policy evaluation then implement policy improvement where we are going to find best optimal policy until the previous and current policy are same.
 
 ## PROGRAM:
 NAME : Mahesh Raj Purohit J
